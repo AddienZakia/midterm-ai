@@ -1,4 +1,4 @@
-## Tubes PLM
+## Midterm AI
 
 ### Getting Started
 
@@ -28,14 +28,6 @@ pastikan working directory pada `command prompt` sudah berada pada folder, lalu 
 
 ```
 python -m src.main
-```
-
-- Run Sandbox Program
-
-sandbox untuk melihat contoh hasil dari component yang dibuat, pastikan working directory pada `command prompt` sudah berada pada folder, lalu run program tersebut pada `command prompt`
-
-```
-python -m src.sandbox.main
 ```
 
 ### Panduan
